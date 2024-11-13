@@ -124,4 +124,4 @@ async function sendGameMessage(
 	sendMetaCall("IChatGrain", pid, "SendMessage", serializedArgs);
 }
 
-module.exports = { startApiServer, registerMod };
+module.exports = { startApiServer, registerMod , sendMetaRequest , sendMetaCall };
