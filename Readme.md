@@ -6,7 +6,7 @@ This repository contains a Node.js mod example for integration with MyDU servers
 ## Prerequisites
 
 - **Node.js** (version 14 or higher)
-- **Docker** and **Docker Compose** (optional, for containerized deployment)
+- **Docker** and **Docker Compose** (preffered, for containerized deployment)
 - Environment variables configured in a `.env` file (see details below)
 
 ## Getting Started
